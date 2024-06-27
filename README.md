@@ -16,7 +16,9 @@
 
 ## Website
 Click on the below link to go to the final website
-http://127.0.0.1:5500/calculator/index.html
+http://127.0.0.1:5500/calculator/index.html]
+![image](https://github.com/seeker-Anushri/Calculator/assets/112256322/0ed8cac5-140b-49f5-809f-4202f2d659c7)
+
 
 ## Introduction
 This project involves the creation of a simple calculator using HTML, CSS, and JavaScript. The calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The aim of this project is to demonstrate the integration of these three fundamental web technologies.
